@@ -134,6 +134,15 @@ Después de instalar en Windows, abrí una terminal **nueva** para que el comand
 El login con Google está en modo de prueba: por ahora solo entran las cuentas
 autorizadas explícitamente. Si querés probarlo, abrí un issue.
 
+### Si no aparece ninguna sesión
+
+La app de la PC revisa su instalación al arrancar y avisa arriba si algo no
+cuadra: dónde buscó los transcripts, dónde está el `claude` real, y quién gana
+cuando tipeás `claude`.
+
+Si separás cuentas con `CLAUDE_CONFIG_DIR` —los transcripts te quedan en
+`~/.claude-max`, `~/.claude-team` y demás— se leen todos, no hace falta elegir.
+
 ## Estado
 
 Funciona de punta a punta.

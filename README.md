@@ -94,8 +94,9 @@ Tocarlo te lleva directo a esa sesión.
 Tres piezas, y ninguna toca lo que ya tenías:
 
 **1. Un intermediario invisible.** Cuando tipeás `claude`, en realidad arranca un
-programita que abre el Claude Code de siempre por debajo y le pasa tu teclado tal
-cual. Está ahí para una sola cosa: poder escribirle desde afuera.
+programita que abre el Claude Code de siempre en la misma terminal y se hace a un
+lado: no toca tu teclado ni lo que se ve. Está ahí para una sola cosa: que lo que
+mandás desde el celular llegue como si lo tipearas vos.
 
 **2. Una app de fondo en la PC.** Claude Code deja un registro de todo lo que hace
 en un archivo. La app lo lee mientras se escribe y lo publica. Vive en la bandeja
@@ -154,6 +155,7 @@ Funciona de punta a punta.
 | Escribirle e interrumpirlo desde el teléfono | Ícono propio |
 | Abrir y retomar sesiones desde el celular | |
 | Ver cuánto de la cuota llevás usado | |
+| Contestar permisos y la confianza en carpetas nuevas desde el celular | |
 | Aviso al terminar, con resumen | |
 | Actualización automática en ambas apps | |
 
